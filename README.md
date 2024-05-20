@@ -16,9 +16,7 @@ This project is a Chat Application built using React for the frontend and Fireba
 
 - User authentication with Firebase Authentication (Google Sign-In)
 - Real-time messaging with Firebase Firestore
-- Image upload support with Firebase Storage
-- User presence indication (online/offline status)
-- Responsive design for both desktop and mobile views
+
 
 ## Tech Stack
 
