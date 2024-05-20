@@ -73,5 +73,3 @@ This project is a Chat Application built using React for the frontend and Fireba
 
     The application should now be running and accessible at `http://localhost:3000`.
 
-## Project Structure
-
